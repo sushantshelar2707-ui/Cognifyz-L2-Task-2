@@ -233,5 +233,5 @@ except ImportError:
 
 ---
 
-📝 *Optional text cell:* **✅ Level 2 Complete**
+
 
